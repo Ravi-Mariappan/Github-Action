@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo a String
-        run: echo"Hellow world"
+        run: echo "Hellow world"
       - name: Multiple Command
         run: |
           node -v
