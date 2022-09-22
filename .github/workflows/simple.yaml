@@ -9,6 +9,6 @@ jobs:
       - name: echo a String
         run: echo"Hellow world"
       - name: Multiple Command
-        run |
+        run: |
           node -v
           npm -v
